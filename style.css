@@ -58,8 +58,6 @@ color: #fff;
 text-align: center;
 }
 
-
-
 .header {
     width: 100%;
     padding-top: 30px;
@@ -76,9 +74,6 @@ text-align: center;
     justify-content: space-between;
     align-items: center;
 }
-
-
-
 
 .header__logo {
     font-size: 25px;
@@ -146,8 +141,6 @@ text-align: center;
  text-align: center;
 }
 
-
-
 .section__title {
     font-family: 'Exo 2', sans-serif;
     font-size:  30px;
@@ -175,36 +168,30 @@ text-align: center;
         color: #555;
     }
 
-
-    .about {
+.about {
         display: flex;
         justify-content: space-between;
     }
     
-    .about__item {
+.about__item {
         width: 30%;
     }
 
-  
-
-    .services {
+.services {
         color: #333;
         display: flex;
         font-family: 'Exo 2', sans-serif;
         font-size: 20px;
     }
 
-
-  
-   
-    .services__item {
+.services__item {
         flex: 1 1 0;
         padding-left: 90px;
         position: relative;
         
     }
 
-    .services__icon {
+.services__icon {
         position: absolute;
         top: 0;
         left: 0;
@@ -212,7 +199,7 @@ text-align: center;
         
     }
 
-    img {
+img {
         display:block;
         margin: 0 auto;
     }
@@ -265,8 +252,6 @@ text-align: center;
         width: 68px;
     }
     
-
-
     /*настройка переключения и положения для правой стрелки*/
     #switch1:checked ~ #controls label:nth-child(2), 
     #switch2:checked ~ #controls label:nth-child(3),
@@ -364,7 +349,6 @@ text-align: center;
     text-align: center;
    
 }
-
 
 .contact {
     background-color: #333;
