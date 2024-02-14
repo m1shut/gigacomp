@@ -342,7 +342,7 @@ img {
     }
 
 
-.section__textnomber {
+.section__textnumber {
     font-family: 'Exo 2', sans-serif;
     font-size: 20px;
     color: #fff;
@@ -355,6 +355,7 @@ img {
 }
 
 .section__titlecontact {
+text-align: center;
 font-family: 'Exo 2', sans-serif;
 font-size:  30px;
 font-weight: 700;
